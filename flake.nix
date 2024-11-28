@@ -43,7 +43,7 @@
 
                 cp build/libs/language-server-all.jar $out/share/${pname}
                 makeWrapper ${jre}/bin/java $out/bin/${pname} \
-                  --add-flags "-cp $out/share/${pname}/language-server-all.jar nextflow.lsp.NextflowLanguageServer"
+                  --add-flags "-jar $out/share/${pname}/language-server-all.jar"
               '';
             };
         in
