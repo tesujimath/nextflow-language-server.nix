@@ -1,0 +1,1126 @@
+{
+  "com.fasterxml:oss-parent:58": {
+    "oss-parent-58.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/oss-parent/58/oss-parent-58.pom",
+      "hash": "sha256-VnDmrBxN3MnUE8+HmXpdou+qTSq+Q5Njr57xAqCgnkA="
+    }
+  },
+  "com.fasterxml:oss-parent:50": {
+    "oss-parent-50.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/oss-parent/50/oss-parent-50.pom",
+      "hash": "sha256-9dpV3XuI+xcMRoAdF3dKZS+y9FgftbHQpfyGqhgrhXc="
+    }
+  },
+  "com.fasterxml:oss-parent:38": {
+    "oss-parent-38.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/oss-parent/38/oss-parent-38.pom",
+      "hash": "sha256-yD+PRd/cqNC2s2YcYLP4R4D2cbEuBvka1dHBodH5Zug="
+    }
+  },
+  "com.fasterxml.jackson:jackson-bom:2.17.2": {
+    "jackson-bom-2.17.2.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/jackson/jackson-bom/2.17.2/jackson-bom-2.17.2.pom",
+      "hash": "sha256-H0crC8IATVz0IaxIhxQX+EGJ5481wElxg4f9i0T7nzI="
+    }
+  },
+  "com.fasterxml.jackson:jackson-parent:2.17": {
+    "jackson-parent-2.17.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/jackson/jackson-parent/2.17/jackson-parent-2.17.pom",
+      "hash": "sha256-rubeSpcoOwQOQ/Ta1XXnt0eWzZhNiSdvfsdWc4DIop0="
+    }
+  },
+  "com.fasterxml.woodstox:woodstox-core:6.5.1": {
+    "woodstox-core-6.5.1.jar": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/woodstox/woodstox-core/6.5.1/woodstox-core-6.5.1.jar",
+      "hash": "sha256-ySjWBmXGQV+xw5d1z5XPxE9/RYDPWrAbHDgOv/12iH8="
+    },
+    "woodstox-core-6.5.1.pom": {
+      "url": "https://plugins.gradle.org/m2/com/fasterxml/woodstox/woodstox-core/6.5.1/woodstox-core-6.5.1.pom",
+      "hash": "sha256-SDllThaxcU509Rq8s3jYNWgUq49NUnPR3S8c6KOQrdw="
+    }
+  },
+  "com.github.javaparser:javaparser-core:3.26.2": {
+    "javaparser-core-3.26.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/javaparser/javaparser-core/3.26.2/javaparser-core-3.26.2.jar",
+      "hash": "sha256-Pj4MZdV9Enl9vq098euyjnWDc30M0fKomNum/r1Qq4g="
+    },
+    "javaparser-core-3.26.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/javaparser/javaparser-core/3.26.2/javaparser-core-3.26.2.pom",
+      "hash": "sha256-8xK6gXB9VttEhsH5rRpuA8Nqmazx4Imhhup0eKcTRLg="
+    }
+  },
+  "com.github.javaparser:javaparser-parent:3.26.2": {
+    "javaparser-parent-3.26.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/javaparser/javaparser-parent/3.26.2/javaparser-parent-3.26.2.pom",
+      "hash": "sha256-nsnC41jTpp/cpT1S61iqrCnpC+D1ANEMme0rlbkQUDQ="
+    }
+  },
+  "com.google.code.findbugs:jsr305:3.0.2": {
+    "jsr305-3.0.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "hash": "sha256-dmrSoHg/JoeWLIrXTO7MOKKLn3Ki0IXuQ4t4E+ko0Mc="
+    },
+    "jsr305-3.0.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom",
+      "hash": "sha256-GYidvfGyVLJgGl7mRbgUepdGRIgil2hMeYr+XWPXjf4="
+    }
+  },
+  "com.google.code.gson:gson:2.10.1": {
+    "gson-2.10.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar",
+      "hash": "sha256-QkHBSncnw0/uplB+yAExij1KkPBw5FJWgQefuU7kxZM="
+    },
+    "gson-2.10.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.pom",
+      "hash": "sha256-0rEVY09cCF20ucn/wmWOieIx/b++IkISGhzZXU2Ujdc="
+    }
+  },
+  "com.google.code.gson:gson-parent:2.10.1": {
+    "gson-parent-2.10.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.10.1/gson-parent-2.10.1.pom",
+      "hash": "sha256-QkjgiCQmxhUYI4XWCGw+8yYudplXGJ4pMGKAuFSCuDM="
+    }
+  },
+  "com.google.errorprone:error_prone_annotations:2.28.0": {
+    "error_prone_annotations-2.28.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.28.0/error_prone_annotations-2.28.0.jar",
+      "hash": "sha256-8/yKOgpAIHBqNzsA5/V8JRLdJtH4PSjH04do+GgrIx4="
+    },
+    "error_prone_annotations-2.28.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.28.0/error_prone_annotations-2.28.0.pom",
+      "hash": "sha256-DOkJ8TpWgUhHbl7iAPOA+Yx1ugiXGq8V2ylet3WY7zo="
+    }
+  },
+  "com.google.errorprone:error_prone_parent:2.28.0": {
+    "error_prone_parent-2.28.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.28.0/error_prone_parent-2.28.0.pom",
+      "hash": "sha256-rM79u1QWzvX80t3DfbTx/LNKIZPMGlXf5ZcKExs+doM="
+    }
+  },
+  "com.google.guava:failureaccess:1.0.2": {
+    "failureaccess-1.0.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar",
+      "hash": "sha256-io+Bz5s1nj9t+mkaHndphcBh7y8iPJssgHU+G0WOgGQ="
+    },
+    "failureaccess-1.0.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.pom",
+      "hash": "sha256-GevG9L207bs9B7bumU+Ea1TvKVWCqbVjRxn/qfMdA7I="
+    }
+  },
+  "com.google.guava:guava:33.3.1-jre": {
+    "guava-33.3.1-jre.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar",
+      "hash": "sha256-S/Dixa+ORSXJbo/eF6T3MH+X+EePEcTI41oOMpiuTpA="
+    },
+    "guava-33.3.1-jre.module": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.module",
+      "hash": "sha256-QYWMhHU/2WprfFESL8zvOVWMkcwIJk4IUGvPIODmNzM="
+    },
+    "guava-33.3.1-jre.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.pom",
+      "hash": "sha256-MTtn/BPrOwY07acVoSKZcfXem4GIvCgHYoFbg6J18ZM="
+    }
+  },
+  "com.google.guava:guava-parent:33.3.1-jre": {
+    "guava-parent-33.3.1-jre.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/33.3.1-jre/guava-parent-33.3.1-jre.pom",
+      "hash": "sha256-VUQdsn6Iad/v4FMFm99Hi9x+lVhWQr85HwAjNF/VYoc="
+    }
+  },
+  "com.google.guava:guava-parent:26.0-android": {
+    "guava-parent-26.0-android.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom",
+      "hash": "sha256-+GmKtGypls6InBr8jKTyXrisawNNyJjUWDdCNgAWzAQ="
+    }
+  },
+  "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava": {
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "hash": "sha256-s3KgN9QjCqV/vv/e8w/WEj+cDC24XQrO0AyRuXTzP5k="
+    },
+    "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom",
+      "hash": "sha256-GNSx2yYVPU5VB5zh92ux/gXNuGLvmVSojLzE/zi4Z5s="
+    }
+  },
+  "com.google.j2objc:j2objc-annotations:3.0.0": {
+    "j2objc-annotations-3.0.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar",
+      "hash": "sha256-iCQVc0Z93KRP/U10qgTCu/0Rv3wX4MNCyUyd56cKfGQ="
+    },
+    "j2objc-annotations-3.0.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.pom",
+      "hash": "sha256-I7PQOeForYndEUaY5t1744P0osV3uId9gsc6ZRXnShc="
+    }
+  },
+  "com.gradleup.shadow:com.gradleup.shadow.gradle.plugin:8.3.5": {
+    "com.gradleup.shadow.gradle.plugin-8.3.5.pom": {
+      "url": "https://plugins.gradle.org/m2/com/gradleup/shadow/com.gradleup.shadow.gradle.plugin/8.3.5/com.gradleup.shadow.gradle.plugin-8.3.5.pom",
+      "hash": "sha256-bc9S5Y+1rG4aD6CVCbfashy3iqlLV3opZThgchAXjKY="
+    }
+  },
+  "com.gradleup.shadow:shadow-gradle-plugin:8.3.5": {
+    "shadow-gradle-plugin-8.3.5.jar": {
+      "url": "https://plugins.gradle.org/m2/com/gradleup/shadow/shadow-gradle-plugin/8.3.5/shadow-gradle-plugin-8.3.5.jar",
+      "hash": "sha256-VOCN0gqCd14zF6RyWhpeTsixscDzRt5wKknZ7UgVtzU="
+    },
+    "shadow-gradle-plugin-8.3.5.module": {
+      "url": "https://plugins.gradle.org/m2/com/gradleup/shadow/shadow-gradle-plugin/8.3.5/shadow-gradle-plugin-8.3.5.module",
+      "hash": "sha256-+kwoQEsU00woznA078s3q513u//7O6xbyLf7BGqtliI="
+    },
+    "shadow-gradle-plugin-8.3.5.pom": {
+      "url": "https://plugins.gradle.org/m2/com/gradleup/shadow/shadow-gradle-plugin/8.3.5/shadow-gradle-plugin-8.3.5.pom",
+      "hash": "sha256-cIF5r4UBl3extKmnI2gPYIX67YERrJFJYeZ1S0lEG6k="
+    }
+  },
+  "com.ibm.icu:icu4j:61.1": {
+    "icu4j-61.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/ibm/icu/icu4j/61.1/icu4j-61.1.jar",
+      "hash": "sha256-VcmOsYOLKku5oH3Da9N4Uy1k0M3LfO7pFCNoZqfeRGQ="
+    },
+    "icu4j-61.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/ibm/icu/icu4j/61.1/icu4j-61.1.pom",
+      "hash": "sha256-E7h6QHnOsFUVsZrHoVIDlHB1YB1JQj9xk1ikmACYBWs="
+    }
+  },
+  "com.thoughtworks.qdox:qdox:1.12.1": {
+    "qdox-1.12.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.jar",
+      "hash": "sha256-IfuiL4MOkmjwfPSrLZnoGBq73LDLke4CKOs8uRjc3R0="
+    },
+    "qdox-1.12.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/1.12.1/qdox-1.12.1.pom",
+      "hash": "sha256-xSpmFtBO+zDJ7eq57oKwWR5NBNOOAwv4HiUHdlUtIV0="
+    }
+  },
+  "commons-io:commons-io:2.17.0": {
+    "commons-io-2.17.0.jar": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar",
+      "hash": "sha256-SqTKSPPf0wt4Igt4gdjLk+rECT7JQ2G2vvqUh5mKVQs="
+    },
+    "commons-io-2.17.0.pom": {
+      "url": "https://plugins.gradle.org/m2/commons-io/commons-io/2.17.0/commons-io-2.17.0.pom",
+      "hash": "sha256-SEqTn/9TELjLXGuQKcLc8VXT+TuLjWKF8/VrsroJ/Ek="
+    }
+  },
+  "jakarta.platform:jakarta.jakartaee-bom:9.1.0": {
+    "jakarta.jakartaee-bom-9.1.0.pom": {
+      "url": "https://plugins.gradle.org/m2/jakarta/platform/jakarta.jakartaee-bom/9.1.0/jakarta.jakartaee-bom-9.1.0.pom",
+      "hash": "sha256-35jgJmIZ/buCVigm15o6IHdqi6Aqp4fw8HZaU4ZUyKQ="
+    }
+  },
+  "jakarta.platform:jakartaee-api-parent:9.1.0": {
+    "jakartaee-api-parent-9.1.0.pom": {
+      "url": "https://plugins.gradle.org/m2/jakarta/platform/jakartaee-api-parent/9.1.0/jakartaee-api-parent-9.1.0.pom",
+      "hash": "sha256-p3AsSHAmgCeEtXl7YjMKi41lkr8PRzeyXGel6sgmWcA="
+    }
+  },
+  "junit:junit:4.13.2": {
+    "junit-4.13.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar",
+      "hash": "sha256-jklbY0Rp1k+4rPo0laBly6zIoP/1XOHjEAe+TBbcV9M="
+    },
+    "junit-4.13.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom",
+      "hash": "sha256-Vptpd+5GA8llwcRsMFj6bpaSkbAWDraWTdCSzYnq3ZQ="
+    }
+  },
+  "net.bytebuddy:byte-buddy:1.14.17": {
+    "byte-buddy-1.14.17.jar": {
+      "url": "https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.jar",
+      "hash": "sha256-zej4+OB7/zaUqs4NmUS6dVZlpYOwXZFT1BBiKF6aimE="
+    },
+    "byte-buddy-1.14.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.14.17/byte-buddy-1.14.17.pom",
+      "hash": "sha256-7bLCWR4YBeoRfZojYVWGzGMh0lDokqnTRNwJ1aIr0T4="
+    }
+  },
+  "net.bytebuddy:byte-buddy-parent:1.14.17": {
+    "byte-buddy-parent-1.14.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.14.17/byte-buddy-parent-1.14.17.pom",
+      "hash": "sha256-BuV7Xpn99O82iv/SNmF5CyO/MtLQE7vAjWjUNFAG9YI="
+    }
+  },
+  "net.java:jvnet-parent:3": {
+    "jvnet-parent-3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom",
+      "hash": "sha256-MPV4nvo53b+WCVqto/wSYMRWH68vcUaGcXyy3FBJR1o="
+    }
+  },
+  "org.abego.treelayout:org.abego.treelayout.core:1.0.3": {
+    "org.abego.treelayout.core-1.0.3.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.3/org.abego.treelayout.core-1.0.3.jar",
+      "hash": "sha256-+l4xOVw5wufUasoPgfcgYJMWB7L6Qb02A46yy2+5MyY="
+    },
+    "org.abego.treelayout.core-1.0.3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/abego/treelayout/org.abego.treelayout.core/1.0.3/org.abego.treelayout.core-1.0.3.pom",
+      "hash": "sha256-o7KyI3lDcDVeeSQzrwEvyZNmfAMxviusrYTbwJrOSgw="
+    }
+  },
+  "org.antlr:ST4:4.3": {
+    "ST4-4.3.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/ST4/4.3/ST4-4.3.jar",
+      "hash": "sha256-KFR9ukjPzrd7bvv+Bprr6e0zJK5g29Ugk9E6HWNu0Gk="
+    },
+    "ST4-4.3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/ST4/4.3/ST4-4.3.pom",
+      "hash": "sha256-Lz9Cw+TSDspiobTm2EFO8MuXODgISZnl4nA8ZOWECs8="
+    }
+  },
+  "org.antlr:antlr-master:3.5.2": {
+    "antlr-master-3.5.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom",
+      "hash": "sha256-QtkaUx6lEA6wm1QaoALDuQjo8oK9c7bi9S83HvEzG9Y="
+    }
+  },
+  "org.antlr:antlr-runtime:3.5.2": {
+    "antlr-runtime-3.5.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar",
+      "hash": "sha256-zj/I7LEPOemjzdy7LONQ0nLZzT0LHhjm/nPDuTichzQ="
+    },
+    "antlr-runtime-3.5.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom",
+      "hash": "sha256-RqnCIAu4sSvXEkqnpQl/9JCZkIMpyFGgTLIFFCCqfyU="
+    }
+  },
+  "org.antlr:antlr4:4.9.2": {
+    "antlr4-4.9.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr4/4.9.2/antlr4-4.9.2.jar",
+      "hash": "sha256-fWYlN2LafIx6tqwF2hRxrus8uOkjEOz7CPk5MGtMfa4="
+    },
+    "antlr4-4.9.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr4/4.9.2/antlr4-4.9.2.pom",
+      "hash": "sha256-rI/9Ja/qoIf9sPy6oT2KryBuoZyFQgcgANyKnjhk9cA="
+    }
+  },
+  "org.antlr:antlr4-master:4.9.2": {
+    "antlr4-master-4.9.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.9.2/antlr4-master-4.9.2.pom",
+      "hash": "sha256-xt4FkjBuYUbc3923w7PXStP7+vYZUiNwMMlca2KAkEw="
+    }
+  },
+  "org.antlr:antlr4-runtime:4.9.2": {
+    "antlr4-runtime-4.9.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.9.2/antlr4-runtime-4.9.2.jar",
+      "hash": "sha256-EgBTYo3VmNQ8t6xrnsxyUp36Wl/TKS03z2OKgcwAdfY="
+    },
+    "antlr4-runtime-4.9.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.9.2/antlr4-runtime-4.9.2.pom",
+      "hash": "sha256-JxkB+UmlrrIDQNv1UWrgYU4hSJeaNQHMvhXMRKPXGG0="
+    }
+  },
+  "org.apache:apache:33": {
+    "apache-33.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/33/apache-33.pom",
+      "hash": "sha256-14vYUkxfg4ChkKZSVoZimpXf5RLfIRETg6bYwJI6RBU="
+    }
+  },
+  "org.apache:apache:31": {
+    "apache-31.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/31/apache-31.pom",
+      "hash": "sha256-VV0MnqppwEKv+SSSe5OB6PgXQTbTVe6tRFIkRS5ikcw="
+    }
+  },
+  "org.apache:apache:7": {
+    "apache-7.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom",
+      "hash": "sha256-E5fOHbQzrcnyI9vwdJbRM2gUSHUfSuKeWPaOePtLbCU="
+    }
+  },
+  "org.apache.ant:ant:1.10.15": {
+    "ant-1.10.15.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.15/ant-1.10.15.jar",
+      "hash": "sha256-djrNpKaViMnqiBepUoUf8ML8S/+h0IHCVl3EB/KdV5Q="
+    },
+    "ant-1.10.15.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/ant/ant/1.10.15/ant-1.10.15.pom",
+      "hash": "sha256-R4DmHoeBbu4fIdGE7Jl7Zfk9tfS5BCwXitsp4j50JdY="
+    }
+  },
+  "org.apache.ant:ant-antlr:1.10.15": {
+    "ant-antlr-1.10.15.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.10.15/ant-antlr-1.10.15.jar",
+      "hash": "sha256-YZ42FgnURv5qtn0dRbhlbmhkTL18RbvtXCyIFkCNjdU="
+    },
+    "ant-antlr-1.10.15.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-antlr/1.10.15/ant-antlr-1.10.15.pom",
+      "hash": "sha256-9wbsXFMyAPbqHbl+TH+kdtny8l0GFi0cqXEGoauExz0="
+    }
+  },
+  "org.apache.ant:ant-junit:1.10.15": {
+    "ant-junit-1.10.15.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.10.15/ant-junit-1.10.15.jar",
+      "hash": "sha256-mkVe60vtwdi81LgJnUsfGPG/G8l3zW44mhBv4M82ZxE="
+    },
+    "ant-junit-1.10.15.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-junit/1.10.15/ant-junit-1.10.15.pom",
+      "hash": "sha256-XhzWXJvDP0PBC1AL66RHhn1qc3AyvJNlWD0xgQ+O0jQ="
+    }
+  },
+  "org.apache.ant:ant-launcher:1.10.15": {
+    "ant-launcher-1.10.15.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.15/ant-launcher-1.10.15.jar",
+      "hash": "sha256-XIVRmQMHoDIzbZjdrtVJo5ponwfU1Ma5UGAb8is9ahs="
+    },
+    "ant-launcher-1.10.15.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.15/ant-launcher-1.10.15.pom",
+      "hash": "sha256-ea+EKil53F/gAivAc8SYgQ7q2DvGKD7t803E3+MNrJU="
+    }
+  },
+  "org.apache.ant:ant-parent:1.10.15": {
+    "ant-parent-1.10.15.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/ant/ant-parent/1.10.15/ant-parent-1.10.15.pom",
+      "hash": "sha256-SYhPGHPFEHzCN/QoXER3R5uwgEvwc3OUgBsI114rvrA="
+    }
+  },
+  "org.apache.commons:commons-parent:74": {
+    "commons-parent-74.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-parent/74/commons-parent-74.pom",
+      "hash": "sha256-gOthsMh/3YJqBpMTsotnLaPxiFgy2kR7Uebophl+fss="
+    }
+  },
+  "org.apache.groovy:groovy:4.0.24": {
+    "groovy-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.24/groovy-4.0.24.jar",
+      "hash": "sha256-ONuKpvSLlqoR3XV0W5arKZHdyaCfXzhA+ucEuEpYiGc="
+    },
+    "groovy-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.24/groovy-4.0.24.module",
+      "hash": "sha256-NSNw0taKZ5atBB6V0xiisdmtgESWu6f3BIiktg9r6yE="
+    },
+    "groovy-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy/4.0.24/groovy-4.0.24.pom",
+      "hash": "sha256-XootpK9hzrBoJmb69+OxwMcUGjZA5R4+KP7mBF+kNL0="
+    }
+  },
+  "org.apache.groovy:groovy-ant:4.0.24": {
+    "groovy-ant-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-ant/4.0.24/groovy-ant-4.0.24.jar",
+      "hash": "sha256-wsHP+kY+OW+nySjNEV/Az2Ar9/ENMi1/u+sZN1mWfnI="
+    },
+    "groovy-ant-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-ant/4.0.24/groovy-ant-4.0.24.module",
+      "hash": "sha256-J9U15os9WD+pRfFyAUzq/d5AfeL5LeifESXekskgvf0="
+    },
+    "groovy-ant-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-ant/4.0.24/groovy-ant-4.0.24.pom",
+      "hash": "sha256-3dXM49Znw2DxqO62P+viicrDX2J8EUfp5Vq6jR6GXfk="
+    }
+  },
+  "org.apache.groovy:groovy-astbuilder:4.0.24": {
+    "groovy-astbuilder-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-astbuilder/4.0.24/groovy-astbuilder-4.0.24.jar",
+      "hash": "sha256-jXOAMftw6Nv7m5NvSJdhGXMPHasMuMaCJ8dolsk6tx0="
+    },
+    "groovy-astbuilder-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-astbuilder/4.0.24/groovy-astbuilder-4.0.24.module",
+      "hash": "sha256-7bS9IszlFH2U6Bs36YXjds1goJP+QA3yzBC0XtlHCWs="
+    },
+    "groovy-astbuilder-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-astbuilder/4.0.24/groovy-astbuilder-4.0.24.pom",
+      "hash": "sha256-aA2ETdv5sNadsJr4ZrWcbdhkpS6whjv3mZVDyBQNoNE="
+    }
+  },
+  "org.apache.groovy:groovy-bom:4.0.24": {
+    "groovy-bom-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.24/groovy-bom-4.0.24.module",
+      "hash": "sha256-IqoIIMDnkyjKEGSqoGw7YjnMr/uYzPMwdVxF7qbVaUk="
+    },
+    "groovy-bom-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-bom/4.0.24/groovy-bom-4.0.24.pom",
+      "hash": "sha256-aE/SojrBvB/TSBvgJ21PwEgxTISWE3/dULPixZm7Vfg="
+    }
+  },
+  "org.apache.groovy:groovy-bom:4.0.22": {
+    "groovy-bom-4.0.22.module": {
+      "url": "https://plugins.gradle.org/m2/org/apache/groovy/groovy-bom/4.0.22/groovy-bom-4.0.22.module",
+      "hash": "sha256-Ul0/SGvArfFvN+YAL9RlqygCpb2l9MZWf778copo5mY="
+    },
+    "groovy-bom-4.0.22.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/groovy/groovy-bom/4.0.22/groovy-bom-4.0.22.pom",
+      "hash": "sha256-Hh9rQiKue/1jMgA+33AgGDWZDb1GEGsWzduopT4832U="
+    }
+  },
+  "org.apache.groovy:groovy-console:4.0.24": {
+    "groovy-console-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-console/4.0.24/groovy-console-4.0.24.jar",
+      "hash": "sha256-9MwjWwJlsuAA5a+oMitWOu2mK02TMw4+9GJ6OsnN8vs="
+    },
+    "groovy-console-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-console/4.0.24/groovy-console-4.0.24.module",
+      "hash": "sha256-pgRfhmtkvWvZkpyo9d9PaKOOfrCq92cU3gb/c4CVXYg="
+    },
+    "groovy-console-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-console/4.0.24/groovy-console-4.0.24.pom",
+      "hash": "sha256-nMbmTbZty/Zr/g08EO5bksPs50snPqXkCp4O8g4Wq5k="
+    }
+  },
+  "org.apache.groovy:groovy-datetime:4.0.24": {
+    "groovy-datetime-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-datetime/4.0.24/groovy-datetime-4.0.24.jar",
+      "hash": "sha256-PMAnP2bQJS3uUsqOSg98ZIYrdIqx0e1DfIBOPry6luM="
+    },
+    "groovy-datetime-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-datetime/4.0.24/groovy-datetime-4.0.24.module",
+      "hash": "sha256-/OWxRvv7jl85uhV7IW0RneKi+lKERXM09mQk8oyfYMA="
+    },
+    "groovy-datetime-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-datetime/4.0.24/groovy-datetime-4.0.24.pom",
+      "hash": "sha256-NK9ZjrN25/o04/94yMfecXTsXcNz4hMsSnVGlNXyGdk="
+    }
+  },
+  "org.apache.groovy:groovy-dateutil:4.0.24": {
+    "groovy-dateutil-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-dateutil/4.0.24/groovy-dateutil-4.0.24.jar",
+      "hash": "sha256-nwtOMNvX/MU4sCrFr4O2rC7sfCT1E87I5RGzIjdAUs0="
+    },
+    "groovy-dateutil-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-dateutil/4.0.24/groovy-dateutil-4.0.24.module",
+      "hash": "sha256-QZNZtPv04y5TK3weSB528M93QSzG/xir23apx1j8rLU="
+    },
+    "groovy-dateutil-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-dateutil/4.0.24/groovy-dateutil-4.0.24.pom",
+      "hash": "sha256-iItiWr3zJ+M9Pw+zEiilnLLaa63UFMR/qCiFCd28ato="
+    }
+  },
+  "org.apache.groovy:groovy-docgenerator:4.0.24": {
+    "groovy-docgenerator-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-docgenerator/4.0.24/groovy-docgenerator-4.0.24.jar",
+      "hash": "sha256-hu9qfmxQvO4luF/9n+WXCKEJeHNyI9rlDhu88M/wvvE="
+    },
+    "groovy-docgenerator-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-docgenerator/4.0.24/groovy-docgenerator-4.0.24.module",
+      "hash": "sha256-Q0wEz+mVNIHdWC2+usYZZysz8iNd0rsrif2vNKKu7AA="
+    },
+    "groovy-docgenerator-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-docgenerator/4.0.24/groovy-docgenerator-4.0.24.pom",
+      "hash": "sha256-cuBknXFjBd6B7xDEGCOCh/91k8cu5M/jVQMWOhUMvso="
+    }
+  },
+  "org.apache.groovy:groovy-groovydoc:4.0.24": {
+    "groovy-groovydoc-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-groovydoc/4.0.24/groovy-groovydoc-4.0.24.jar",
+      "hash": "sha256-k0W7e0zaYhmtU1WpkhN5fPOWnPCqlIBnwwVjoNu1zMA="
+    },
+    "groovy-groovydoc-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-groovydoc/4.0.24/groovy-groovydoc-4.0.24.module",
+      "hash": "sha256-Kd5vD+AA4Mf/JItIeRM6ygoukl+sbTv1tsXOUEziVbY="
+    },
+    "groovy-groovydoc-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-groovydoc/4.0.24/groovy-groovydoc-4.0.24.pom",
+      "hash": "sha256-Rn9N9/2tzmAXl/PLCTAWsj7y9sfnobeDhx3AhX10Xrk="
+    }
+  },
+  "org.apache.groovy:groovy-json:4.0.24": {
+    "groovy-json-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-json/4.0.24/groovy-json-4.0.24.jar",
+      "hash": "sha256-6BPfUNZUS5C73DVSEFvpppdY2RNOO2mQ2ILzX8o8hY8="
+    },
+    "groovy-json-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-json/4.0.24/groovy-json-4.0.24.module",
+      "hash": "sha256-2AMXVllRP5wxRrtvidQp86Njn8roEftxQSc8UiaIK8I="
+    },
+    "groovy-json-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-json/4.0.24/groovy-json-4.0.24.pom",
+      "hash": "sha256-+Nprw2vBqNkzv2bbTEsUWFwa64cGi60UyNODMBqIcyg="
+    }
+  },
+  "org.apache.groovy:groovy-nio:4.0.24": {
+    "groovy-nio-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-nio/4.0.24/groovy-nio-4.0.24.jar",
+      "hash": "sha256-cM0p7u64n5wU8ds5VDPx30K8HasznF3fkcDnq4UFIlw="
+    },
+    "groovy-nio-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-nio/4.0.24/groovy-nio-4.0.24.module",
+      "hash": "sha256-ZsULrsTEeN4jTGrLazC5PUFBydhgYA95OgBY8D4vZmk="
+    },
+    "groovy-nio-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-nio/4.0.24/groovy-nio-4.0.24.pom",
+      "hash": "sha256-9Cz3xv+/1HCKu6fm7+J03OC59fnZB3HXtVmEi6cvF78="
+    }
+  },
+  "org.apache.groovy:groovy-sql:4.0.24": {
+    "groovy-sql-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-sql/4.0.24/groovy-sql-4.0.24.jar",
+      "hash": "sha256-Pmm3ah3zCehS+NW2iJMFGieNcRhUPrgzs5iBHDN6aTU="
+    },
+    "groovy-sql-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-sql/4.0.24/groovy-sql-4.0.24.module",
+      "hash": "sha256-pHT4g4J0Pd3qUaryAuw6YW3uXDMpi7Tn4kzX9Xqcayg="
+    },
+    "groovy-sql-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-sql/4.0.24/groovy-sql-4.0.24.pom",
+      "hash": "sha256-k8WPYwVRHcvjBZ7bXfuS+b89+xJeMpPknEil/pRHFTU="
+    }
+  },
+  "org.apache.groovy:groovy-swing:4.0.24": {
+    "groovy-swing-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-swing/4.0.24/groovy-swing-4.0.24.jar",
+      "hash": "sha256-rm8i1HL6UGARvYDvwKrAlcJGdYtriWaZ0IU7f1hxN1c="
+    },
+    "groovy-swing-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-swing/4.0.24/groovy-swing-4.0.24.module",
+      "hash": "sha256-OIv7Av1XWpB07rrznnE+8qmHVv54Mix9OTrsd0FtRuM="
+    },
+    "groovy-swing-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-swing/4.0.24/groovy-swing-4.0.24.pom",
+      "hash": "sha256-XNL+UCdDNOIt8eoCPHJbIumK+Pq4oNfu9vU50P4r94k="
+    }
+  },
+  "org.apache.groovy:groovy-templates:4.0.24": {
+    "groovy-templates-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-templates/4.0.24/groovy-templates-4.0.24.jar",
+      "hash": "sha256-s7EcxKhLrcbQMNIWD8LQWsFCAXwSI1XO8EWXwYW+fsA="
+    },
+    "groovy-templates-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-templates/4.0.24/groovy-templates-4.0.24.module",
+      "hash": "sha256-B6xScTemcmAplzJFl5bQjC3+L2eyn+0U7aW19ooHiAM="
+    },
+    "groovy-templates-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-templates/4.0.24/groovy-templates-4.0.24.pom",
+      "hash": "sha256-F9o6d3+witiso/MRWf399cb2lj31LwN6jJ3m4yA3syE="
+    }
+  },
+  "org.apache.groovy:groovy-test:4.0.24": {
+    "groovy-test-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-test/4.0.24/groovy-test-4.0.24.jar",
+      "hash": "sha256-FVRaQMyzwwtaPNkVWqKFv0caQXgmVQBdtoH5ygN02kc="
+    },
+    "groovy-test-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-test/4.0.24/groovy-test-4.0.24.module",
+      "hash": "sha256-y4AZ+NsDLFHuHXHFdYeKCusWoikcY6qPeBaYeGCYHAs="
+    },
+    "groovy-test-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-test/4.0.24/groovy-test-4.0.24.pom",
+      "hash": "sha256-asnxV0rUpvI2VGxGcJU45oc6IhSP9pnt0Pp9u75jNp4="
+    }
+  },
+  "org.apache.groovy:groovy-xml:4.0.24": {
+    "groovy-xml-4.0.24.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-xml/4.0.24/groovy-xml-4.0.24.jar",
+      "hash": "sha256-C7NE1gBaAwkabcY54jXD02x6+XjmVq5/Kh2VAC6PPww="
+    },
+    "groovy-xml-4.0.24.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-xml/4.0.24/groovy-xml-4.0.24.module",
+      "hash": "sha256-G0KSzn28nvreSf7f6iwUmy1mPwyXj72dmj3JnJHicWY="
+    },
+    "groovy-xml-4.0.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/groovy/groovy-xml/4.0.24/groovy-xml-4.0.24.pom",
+      "hash": "sha256-mgLtimBTsuZyu8J5ktRQlUcYv+THOmb3zHDUZGh+N+0="
+    }
+  },
+  "org.apache.ivy:ivy:2.5.2": {
+    "ivy-2.5.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.5.2/ivy-2.5.2.jar",
+      "hash": "sha256-mEKNVF6mPNmgqvJVyvQsuMtk/kMNu15wmu1TbU2u7QQ="
+    },
+    "ivy-2.5.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.5.2/ivy-2.5.2.pom",
+      "hash": "sha256-SrIWH63j2EHp2H8iVfdgfLiHCcbISPf7JdBmkd2VbkQ="
+    }
+  },
+  "org.apache.logging:logging-parent:11.3.0": {
+    "logging-parent-11.3.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/logging-parent/11.3.0/logging-parent-11.3.0.pom",
+      "hash": "sha256-pcmFtW/hxYQzOTtQkabznlufeFGN2PySE0aQWZtk19A="
+    }
+  },
+  "org.apache.logging.log4j:log4j:2.24.1": {
+    "log4j-2.24.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j/2.24.1/log4j-2.24.1.pom",
+      "hash": "sha256-+NcAm1Rl2KhT0QuEG8Bve3JnXwza71OoDprNFDMkfto="
+    }
+  },
+  "org.apache.logging.log4j:log4j-api:2.24.1": {
+    "log4j-api-2.24.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar",
+      "hash": "sha256-bne7Ip/I3K8JA4vutekDCyLp4BtRtFiwGDzmaevMku8="
+    },
+    "log4j-api-2.24.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.pom",
+      "hash": "sha256-IzAaISnUEAiZJfSvQa7LUlhKPcxFJoI+EyNOyst+c+M="
+    }
+  },
+  "org.apache.logging.log4j:log4j-bom:2.24.1": {
+    "log4j-bom-2.24.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-bom/2.24.1/log4j-bom-2.24.1.pom",
+      "hash": "sha256-vGPPsrS5bbS9cwyWLoJPtpKMuEkCwUFuR3q1y3KwsNM="
+    }
+  },
+  "org.apache.logging.log4j:log4j-core:2.24.1": {
+    "log4j-core-2.24.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar",
+      "hash": "sha256-ALzziEcsqApocBQYF2O2bXdxd/Isu/F5/WDhsaybybA="
+    },
+    "log4j-core-2.24.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.pom",
+      "hash": "sha256-JyQstBek3xl47t/GlYtFyJgg+WzH9NFtH0gr/CN24M0="
+    }
+  },
+  "org.apache.maven:maven:4.0.0-alpha-9": {
+    "maven-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven/4.0.0-alpha-9/maven-4.0.0-alpha-9.pom",
+      "hash": "sha256-5QzZ/zefQ3H3/ywsrFF5YfPS9n7fgJCHU8e9UGuRPX4="
+    }
+  },
+  "org.apache.maven:maven-api:4.0.0-alpha-9": {
+    "maven-api-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-api/4.0.0-alpha-9/maven-api-4.0.0-alpha-9.pom",
+      "hash": "sha256-ZYvglXcymzX5TemWdb8O/HI26ZYbXHhfMyqkfyKUcfA="
+    }
+  },
+  "org.apache.maven:maven-api-meta:4.0.0-alpha-9": {
+    "maven-api-meta-4.0.0-alpha-9.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-api-meta/4.0.0-alpha-9/maven-api-meta-4.0.0-alpha-9.jar",
+      "hash": "sha256-MsT1yturaAw0lS+ctXBFehODzOxMmlewOSYH1xkcaUk="
+    },
+    "maven-api-meta-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-api-meta/4.0.0-alpha-9/maven-api-meta-4.0.0-alpha-9.pom",
+      "hash": "sha256-2ePDXW/aysuNGLn2QoYJDH/65yjWbLJq9aJmgZUNvnk="
+    }
+  },
+  "org.apache.maven:maven-api-xml:4.0.0-alpha-9": {
+    "maven-api-xml-4.0.0-alpha-9.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-api-xml/4.0.0-alpha-9/maven-api-xml-4.0.0-alpha-9.jar",
+      "hash": "sha256-KbJijQ8CgRlxWRaEnBnu1FsyzcZ+sTVReYxzr6SqI9Y="
+    },
+    "maven-api-xml-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-api-xml/4.0.0-alpha-9/maven-api-xml-4.0.0-alpha-9.pom",
+      "hash": "sha256-N2bjAzOTTJIvUlj6M0uHXyi7ABJ/8D3vANl/KlOnrps="
+    }
+  },
+  "org.apache.maven:maven-bom:4.0.0-alpha-9": {
+    "maven-bom-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-bom/4.0.0-alpha-9/maven-bom-4.0.0-alpha-9.pom",
+      "hash": "sha256-4EfSnTUI/yd6Wsk1u5J/NUkQLMbTec5a4p4pYzeE0Rw="
+    }
+  },
+  "org.apache.maven:maven-parent:41": {
+    "maven-parent-41.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-parent/41/maven-parent-41.pom",
+      "hash": "sha256-di/N1M6GIcX6Ciz2SVrSaXKoCT60Mqo+QCvC1OJQDFM="
+    }
+  },
+  "org.apache.maven:maven-xml-impl:4.0.0-alpha-9": {
+    "maven-xml-impl-4.0.0-alpha-9.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-xml-impl/4.0.0-alpha-9/maven-xml-impl-4.0.0-alpha-9.jar",
+      "hash": "sha256-JucCuIHVeuTuiNAsAJQLpkBjcF7mkgWuiVi/g5qLBrE="
+    },
+    "maven-xml-impl-4.0.0-alpha-9.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/maven/maven-xml-impl/4.0.0-alpha-9/maven-xml-impl-4.0.0-alpha-9.pom",
+      "hash": "sha256-us0USYVzbUMmuuRChHM78eMTKX3NolNGTkYpsddoGPc="
+    }
+  },
+  "org.apiguardian:apiguardian-api:1.1.2": {
+    "apiguardian-api-1.1.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar",
+      "hash": "sha256-tQlEisUG1gcxnxglN/CzXXEAdYLsdBgyofER5bW3Czg="
+    },
+    "apiguardian-api-1.1.2.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.module",
+      "hash": "sha256-4IAoExN1s1fR0oc06aT7QhbahLJAZByz7358fWKCI/w="
+    },
+    "apiguardian-api-1.1.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom",
+      "hash": "sha256-MjVQgdEJCVw9XTdNWkO09MG3XVSemD71ByPidy5TAqA="
+    }
+  },
+  "org.checkerframework:checker-qual:3.43.0": {
+    "checker-qual-3.43.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar",
+      "hash": "sha256-P7wumPBYVMPfFt+auqlVuRsVs+ysM2IyCO1kJGQO8PY="
+    },
+    "checker-qual-3.43.0.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.module",
+      "hash": "sha256-+BYzJyRauGJVMpSMcqkwVIzZfzTWw/6GD6auxaNNebQ="
+    },
+    "checker-qual-3.43.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.pom",
+      "hash": "sha256-kxO/U7Pv2KrKJm7qi5bjB5drZcCxZRDMbwIxn7rr7UM="
+    }
+  },
+  "org.codehaus:codehaus-parent:4": {
+    "codehaus-parent-4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom",
+      "hash": "sha256-a4cjfejC4XQM+AYnx/POPhXeGTC7JQxVoeypT6PgFN8="
+    }
+  },
+  "org.codehaus.gpars:gpars:1.2.1": {
+    "gpars-1.2.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/codehaus/gpars/gpars/1.2.1/gpars-1.2.1.jar",
+      "hash": "sha256-+eCL+WTzTRKTREBMAWZiduxDxnBN106NTKMtzR0vtKg="
+    },
+    "gpars-1.2.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/codehaus/gpars/gpars/1.2.1/gpars-1.2.1.pom",
+      "hash": "sha256-QoGa4DFjcSPJS8c9bvANBfh29tSixUiztj722uw4gw4="
+    }
+  },
+  "org.codehaus.jsr166-mirror:jsr166y:1.7.0": {
+    "jsr166y-1.7.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/codehaus/jsr166-mirror/jsr166y/1.7.0/jsr166y-1.7.0.jar",
+      "hash": "sha256-TU50Uy6BvGpU5MvahlmZ9KspiF6FDwuDXqN0gAuE0LI="
+    },
+    "jsr166y-1.7.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/codehaus/jsr166-mirror/jsr166y/1.7.0/jsr166y-1.7.0.pom",
+      "hash": "sha256-tmtSb0df2k3Oi5X/8P7ukkqPBZKYwzrgyTS3fYkJBkM="
+    }
+  },
+  "org.codehaus.plexus:plexus:18": {
+    "plexus-18.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus/18/plexus-18.pom",
+      "hash": "sha256-tD7onIiQueW8SNB5/LTETwgrUTklM1bcRVgGozw92P0="
+    }
+  },
+  "org.codehaus.plexus:plexus-utils:4.0.2": {
+    "plexus-utils-4.0.2.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/4.0.2/plexus-utils-4.0.2.jar",
+      "hash": "sha256-iVcnTnX+LCeLFCjdFqDa7uHdOBUstu/4Fhd6wo/Mtpc="
+    },
+    "plexus-utils-4.0.2.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-utils/4.0.2/plexus-utils-4.0.2.pom",
+      "hash": "sha256-UVHBO918w6VWlYOn9CZzkvAT/9MRXquNtfht5CCjZq8="
+    }
+  },
+  "org.codehaus.plexus:plexus-xml:4.0.4": {
+    "plexus-xml-4.0.4.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-xml/4.0.4/plexus-xml-4.0.4.jar",
+      "hash": "sha256-Bp54tTcQjcYSSmcHP8mYJkeR9rZJnpVaOOcrs+T+Gt8="
+    },
+    "plexus-xml-4.0.4.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/plexus/plexus-xml/4.0.4/plexus-xml-4.0.4.pom",
+      "hash": "sha256-Ohb3yn7CRzFFtGHgpylREI1H4SThjIRMCFsaY3jGEVE="
+    }
+  },
+  "org.codehaus.woodstox:stax2-api:4.2.1": {
+    "stax2-api-4.2.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar",
+      "hash": "sha256-Z4Vn5ItRpCxlxpnyZlOa09Z21LGlsK19iezoudV3JXk="
+    },
+    "stax2-api-4.2.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.pom",
+      "hash": "sha256-edpBDIwPRqP46K2zDWwkzNYGW272v96HvZfpiB6gouc="
+    }
+  },
+  "org.eclipse.ee4j:project:1.0.7": {
+    "project-1.0.7.pom": {
+      "url": "https://plugins.gradle.org/m2/org/eclipse/ee4j/project/1.0.7/project-1.0.7.pom",
+      "hash": "sha256-IFwDmkLLrjVW776wSkg+s6PPlVC9db+EJg3I8oIY8QU="
+    }
+  },
+  "org.eclipse.lsp4j:org.eclipse.lsp4j:0.23.0": {
+    "org.eclipse.lsp4j-0.23.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j/0.23.0/org.eclipse.lsp4j-0.23.0.jar",
+      "hash": "sha256-Zaj+Dlhlj9BNR1KlEcT8JvTQEuvh7WETdMtHu2us+ys="
+    },
+    "org.eclipse.lsp4j-0.23.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j/0.23.0/org.eclipse.lsp4j-0.23.0.pom",
+      "hash": "sha256-r+x6DMSyGWtknWypggczVOoYoOPUxZSX7CwJ45/vxOA="
+    }
+  },
+  "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.23.0": {
+    "org.eclipse.lsp4j.jsonrpc-0.23.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.23.0/org.eclipse.lsp4j.jsonrpc-0.23.0.jar",
+      "hash": "sha256-2bbXloBn123jxxNosN3yOdBR6Q3zAwycw3CAUoctdHQ="
+    },
+    "org.eclipse.lsp4j.jsonrpc-0.23.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.23.0/org.eclipse.lsp4j.jsonrpc-0.23.0.pom",
+      "hash": "sha256-P/J+tba/Br/1WQa5W+ku/sgmtPgOJdg9xMXw5iDJD+M="
+    }
+  },
+  "org.glassfish:javax.json:1.0.4": {
+    "javax.json-1.0.4.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar",
+      "hash": "sha256-Dh3sQKHt6WWUElHtqWiu7gUsxPUDeLwxbMSOgVm9vrQ="
+    },
+    "javax.json-1.0.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.pom",
+      "hash": "sha256-a6+Dg/+pi2bqls1b/B7H8teUY7uYrJgFKWSxIcIhLVQ="
+    }
+  },
+  "org.glassfish:json:1.0.4": {
+    "json-1.0.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/glassfish/json/1.0.4/json-1.0.4.pom",
+      "hash": "sha256-bXxoQjEV+SFxjZRPhZkktMaFIX7AOkn3BFWossqpcuY="
+    }
+  },
+  "org.hamcrest:hamcrest:2.2": {
+    "hamcrest-2.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar",
+      "hash": "sha256-XmKEaonwXNeM2cGlU/NA0AJFg4DDIEVd0fj8VJeoocE="
+    },
+    "hamcrest-2.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.pom",
+      "hash": "sha256-s2E3N2xLP8923DN+KhvFtpGirBqpZqtdJiCak4EvpX0="
+    }
+  },
+  "org.hamcrest:hamcrest-core:1.3": {
+    "hamcrest-core-1.3.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
+      "hash": "sha256-Zv3vkelzk0jfeglqo4SlaF9Oh1WEzOiThqekclHE2Ok="
+    },
+    "hamcrest-core-1.3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom",
+      "hash": "sha256-/eOGp5BRc6GxA95quCBydYS1DQ4yKC4nl3h8IKZP+pM="
+    }
+  },
+  "org.hamcrest:hamcrest-parent:1.3": {
+    "hamcrest-parent-1.3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom",
+      "hash": "sha256-bVNflO+2Y722gsnyelAzU5RogAlkK6epZ3UEvBvkEps="
+    }
+  },
+  "org.jdom:jdom2:2.0.6.1": {
+    "jdom2-2.0.6.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar",
+      "hash": "sha256-CyD0XjoP2PDRLNxTFrBndukCsTZdsAEYh2+RdcYPMCw="
+    },
+    "jdom2-2.0.6.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.pom",
+      "hash": "sha256-VXleEBi4rmR7k3lnz4EKmbCFgsI3TnhzwShzTIyRS/M="
+    }
+  },
+  "org.junit:junit-bom:5.11.0": {
+    "junit-bom-5.11.0.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.11.0/junit-bom-5.11.0.module",
+      "hash": "sha256-9+2+Z/IgQnCMQQq8VHQI5cR29An1ViNqEXkiEnSi7S0="
+    },
+    "junit-bom-5.11.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.11.0/junit-bom-5.11.0.pom",
+      "hash": "sha256-5nRZ1IgkJKxjdPQNscj0ouiJRrNAugcsgL6TKivkZE0="
+    }
+  },
+  "org.junit:junit-bom:5.10.3": {
+    "junit-bom-5.10.3.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.10.3/junit-bom-5.10.3.module",
+      "hash": "sha256-qnlAydaDEuOdiaZShaqa9F8U2PQ02FDujZPbalbRZ7s="
+    },
+    "junit-bom-5.10.3.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.10.3/junit-bom-5.10.3.pom",
+      "hash": "sha256-EJN9RMQlmEy4c5Il00cS4aMUVkHKk6w/fvGG+iX2urw="
+    }
+  },
+  "org.junit:junit-bom:5.10.2": {
+    "junit-bom-5.10.2.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.2/junit-bom-5.10.2.module",
+      "hash": "sha256-3iOxFLPkEZqP5usXvtWjhSgWaYus5nBxV51tkn67CAo="
+    },
+    "junit-bom-5.10.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.2/junit-bom-5.10.2.pom",
+      "hash": "sha256-Fp3ZBKSw9lIM/+ZYzGIpK/6fPBSpifqSEgckzeQ6mWg="
+    }
+  },
+  "org.junit:junit-bom:5.10.1": {
+    "junit-bom-5.10.1.module": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.module",
+      "hash": "sha256-IbCvz//i7LN3D16wCuehn+rulOdx+jkYFzhQ2ueAZ7c="
+    },
+    "junit-bom-5.10.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.10.1/junit-bom-5.10.1.pom",
+      "hash": "sha256-IcSwKG9LIAaVd/9LIJeKhcEArIpGtvHIZy+6qzN7w/I="
+    }
+  },
+  "org.junit:junit-bom:5.9.0": {
+    "junit-bom-5.9.0.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.module",
+      "hash": "sha256-oFTq9QFrWLvN6GZgREp8DdPiyvhNKhrV/Ey1JZecGbk="
+    },
+    "junit-bom-5.9.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.0/junit-bom-5.9.0.pom",
+      "hash": "sha256-2D6H8Wds3kQZHuxc2mkEkjkvJpI7HkmBSMpznf7XUpU="
+    }
+  },
+  "org.junit.platform:junit-platform-commons:1.9.0": {
+    "junit-platform-commons-1.9.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.jar",
+      "hash": "sha256-5YlLcQCUtMqvxigLiCmkOft2SQHqCuGNBu2AOIswm3o="
+    },
+    "junit-platform-commons-1.9.0.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.module",
+      "hash": "sha256-SyAzP4ruVOgwRY2B0EXrjRfcBCTTEzKNtQmpzCSZsXo="
+    },
+    "junit-platform-commons-1.9.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.pom",
+      "hash": "sha256-MJp9efG/577WChoXCKqovXGGHBKdIWhNaO305NnILCA="
+    }
+  },
+  "org.junit.platform:junit-platform-engine:1.9.0": {
+    "junit-platform-engine-1.9.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0.jar",
+      "hash": "sha256-quxzX3REqfwFXiBlmN49gpwk6ceo7qbv3usZYgh/6BE="
+    },
+    "junit-platform-engine-1.9.0.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0.module",
+      "hash": "sha256-/3Xx1hE/RdWyXyUpUE3tiDmGoBLJtD0hrUI5jknXEGM="
+    },
+    "junit-platform-engine-1.9.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0.pom",
+      "hash": "sha256-G2rN+hUNaWYlIHYAAcaONlhl1o7xMNGZblK5SD7IYWE="
+    }
+  },
+  "org.mockito:mockito-bom:5.7.0": {
+    "mockito-bom-5.7.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/mockito/mockito-bom/5.7.0/mockito-bom-5.7.0.pom",
+      "hash": "sha256-dlcAW89JAw1nzF1S3rxm3xj0jVTbs+1GZ/1yWwZ5+6A="
+    }
+  },
+  "org.mockito:mockito-bom:4.11.0": {
+    "mockito-bom-4.11.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/mockito/mockito-bom/4.11.0/mockito-bom-4.11.0.pom",
+      "hash": "sha256-2FMadGyYj39o7V8YjN6pRQBq6pk+xd+eUk4NJ9YUkdo="
+    }
+  },
+  "org.multiverse:multiverse:0.7.0": {
+    "multiverse-0.7.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/multiverse/multiverse/0.7.0/multiverse-0.7.0.pom",
+      "hash": "sha256-7eh88cQ59oa9lF8cRiz8//VQg6HnKxjCjmP050MEohg="
+    }
+  },
+  "org.multiverse:multiverse-core:0.7.0": {
+    "multiverse-core-0.7.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/multiverse/multiverse-core/0.7.0/multiverse-core-0.7.0.jar",
+      "hash": "sha256-xUOY8CKAVLf65lInQzrp2oflsqluuoJOZqkkkS0Q/FA="
+    },
+    "multiverse-core-0.7.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/multiverse/multiverse-core/0.7.0/multiverse-core-0.7.0.pom",
+      "hash": "sha256-p7gugArForuaPFPIf328LPcE45XMMnNRC6OAd9PrURQ="
+    }
+  },
+  "org.objenesis:objenesis:3.4": {
+    "objenesis-3.4.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.4/objenesis-3.4.jar",
+      "hash": "sha256-lUiBAv6vLihYrfaymTU2d9rGwVKUAG+O0cVVb4480lE="
+    },
+    "objenesis-3.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.4/objenesis-3.4.pom",
+      "hash": "sha256-YBfsDB6B9z2aEuv8CcMoI80HXocJWTcU60AOLwE9ilg="
+    }
+  },
+  "org.objenesis:objenesis-parent:3.4": {
+    "objenesis-parent-3.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/3.4/objenesis-parent-3.4.pom",
+      "hash": "sha256-yx9D0pjMhUu1W5k9MwAX20qUxmCZgtqBDwOTc/xiVKY="
+    }
+  },
+  "org.opentest4j:opentest4j:1.2.0": {
+    "opentest4j-1.2.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar",
+      "hash": "sha256-WIEt5giY2Xb7ge87YtoFxmBMGP1KJJ9QRCgkefwoavI="
+    },
+    "opentest4j-1.2.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom",
+      "hash": "sha256-qW5nGBbB/4gDvex0ySQfAlvfsnfaXStO4CJmQFk2+ZQ="
+    }
+  },
+  "org.ow2:ow2:1.5.1": {
+    "ow2-1.5.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5.1/ow2-1.5.1.pom",
+      "hash": "sha256-Mh3bt+5v5PU96mtM1tt0FU1r+kI5HB92OzYbn0hazwU="
+    }
+  },
+  "org.ow2.asm:asm:9.7.1": {
+    "asm-9.7.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
+      "hash": "sha256-jK3UOsXrbQneBfrsyji5F6BAu5E5x+3rTMgcdAtxMoE="
+    },
+    "asm-9.7.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.pom",
+      "hash": "sha256-cimwOzCnPukQCActnkVppR2FR/roxQ9SeEGu9MGwuqg="
+    }
+  },
+  "org.ow2.asm:asm-analysis:9.7.1": {
+    "asm-analysis-9.7.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar",
+      "hash": "sha256-hbKTcYhLoxu3bt8iMjwsJOFywyZ6ZxUuuj0czC4EHvI="
+    },
+    "asm-analysis-9.7.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.pom",
+      "hash": "sha256-JcI3nyv8Kh5k5iw54rk8+w5IlweFKwjW/EcLHGpSue4="
+    }
+  },
+  "org.ow2.asm:asm-commons:9.7.1": {
+    "asm-commons-9.7.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar",
+      "hash": "sha256-mlebVNKSrZvhcdQxP9RznGNVksK1rDpFm70QSc3exqA="
+    },
+    "asm-commons-9.7.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.pom",
+      "hash": "sha256-C/HTHaDJ+djtwvJ9u/279z8acVtyzS+ijz8ZWZTXStE="
+    }
+  },
+  "org.ow2.asm:asm-tree:9.7.1": {
+    "asm-tree-9.7.1.jar": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar",
+      "hash": "sha256-mSmIH1nra4QOhtVFcMd7Wc5yHRBObf16QJeJkcLTtB8="
+    },
+    "asm-tree-9.7.1.pom": {
+      "url": "https://plugins.gradle.org/m2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.pom",
+      "hash": "sha256-E7kF9l5/1DynZ09Azao3Z5ukhYxsnZ+48Xp6/ZuqvJ4="
+    }
+  },
+  "org.ow2.asm:asm-util:9.7.1": {
+    "asm-util-9.7.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar",
+      "hash": "sha256-+IW+cbXJBVb18a0cT5J2spuWBXxJfUZmb+TdvsPLQ8Y="
+    },
+    "asm-util-9.7.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.pom",
+      "hash": "sha256-f7XmM2Ky1S133KO3VK661jV1HT/FIBkelQDs6eI0W3E="
+    }
+  },
+  "org.sonatype.oss:oss-parent:9": {
+    "oss-parent-9.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom",
+      "hash": "sha256-+0AmX5glSCEv+C42LllzKyGH7G8NgBgohcFO8fmCgno="
+    }
+  },
+  "org.sonatype.oss:oss-parent:7": {
+    "oss-parent-7.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom",
+      "hash": "sha256-tR+IZ8kranIkmVV/w6H96ne9+e9XRyL+kM5DailVlFQ="
+    }
+  },
+  "org.spockframework:spock-core:2.3-groovy-4.0": {
+    "spock-core-2.3-groovy-4.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/spockframework/spock-core/2.3-groovy-4.0/spock-core-2.3-groovy-4.0.jar",
+      "hash": "sha256-YKYUp2QMT8nf1DKSmkJr0ESPKZkVkkVWrjchBaEY/xQ="
+    },
+    "spock-core-2.3-groovy-4.0.module": {
+      "url": "https://repo.maven.apache.org/maven2/org/spockframework/spock-core/2.3-groovy-4.0/spock-core-2.3-groovy-4.0.module",
+      "hash": "sha256-W2QHcTOZe9HdI5scafMnfG4KUpYnhA+ElUFmzeSKGGo="
+    },
+    "spock-core-2.3-groovy-4.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/spockframework/spock-core/2.3-groovy-4.0/spock-core-2.3-groovy-4.0.pom",
+      "hash": "sha256-qgs1kf+aOzwy6vmanFXdUSVg7M/EWXLYTnUUpnZpX/c="
+    }
+  },
+  "org.springframework:spring-framework-bom:5.3.39": {
+    "spring-framework-bom-5.3.39.module": {
+      "url": "https://plugins.gradle.org/m2/org/springframework/spring-framework-bom/5.3.39/spring-framework-bom-5.3.39.module",
+      "hash": "sha256-+ItA4qUDM7QLQvGB7uJyt17HXdhmbLFFvZCxW5fhg+M="
+    },
+    "spring-framework-bom-5.3.39.pom": {
+      "url": "https://plugins.gradle.org/m2/org/springframework/spring-framework-bom/5.3.39/spring-framework-bom-5.3.39.pom",
+      "hash": "sha256-9tSBCT51dny6Gsfh2zj49pLL4+OHRGkzcada6yHGFIs="
+    }
+  },
+  "org.vafer:jdependency:2.11": {
+    "jdependency-2.11.jar": {
+      "url": "https://plugins.gradle.org/m2/org/vafer/jdependency/2.11/jdependency-2.11.jar",
+      "hash": "sha256-zdoDAD+pVRMVpMw/wWPxhJXxkbSaj3CjquIy8Emn/dA="
+    },
+    "jdependency-2.11.pom": {
+      "url": "https://plugins.gradle.org/m2/org/vafer/jdependency/2.11/jdependency-2.11.pom",
+      "hash": "sha256-2mymcCFlPxUMHVNDLKxApzkH0tkqjzR65eRAHk+iJ+c="
+    }
+  },
+  "org.yaml:snakeyaml:2.2": {
+    "snakeyaml-2.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar",
+      "hash": "sha256-FGeTFEiggXaWrigFt7iyC/sIJlK/nE767VKJMNxJOJs="
+    },
+    "snakeyaml-2.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/2.2/snakeyaml-2.2.pom",
+      "hash": "sha256-6YLq3HiMac8uTeUKn2MrGCwx26UGEoMNNI/EtLqN19Y="
+    }
+  }
+}
